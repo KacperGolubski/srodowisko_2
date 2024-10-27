@@ -1,2 +1,2 @@
 # srodowisko_2
-Repo na zajęcia ze środowiska
+Repo na zajęcia ze środowiska, ale zaszla zmiana
